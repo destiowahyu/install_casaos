@@ -18,6 +18,11 @@ dns-nameservers 192.168.100.1
 #dns-nameservers 1.1.1.1 8.8.8.8
 
 
+#LINK CASA OS
+curl -fsSL https://get.casaos.io | sudo bash
+
+
+
 #PERINTAH INSTALL APACHE DAN KAWAN KAWAN
 
 # Catat dulu IP Address STB. Misalnya:  192.168.88.220
