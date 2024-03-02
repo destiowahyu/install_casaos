@@ -5,7 +5,6 @@
 
 sudo nano /etc/network/interfaces
 
-
 # Ethernet adapter 0
 auto eth0
 allow-hotplug eth0
